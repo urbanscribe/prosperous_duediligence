@@ -9,6 +9,12 @@ his code here https://t.co/HBUJiW6vmJ
 this version stays in the notebook and goes through some elements which we look at (as we would on BB)
 Thanks, Alex.
 
+To install
+- create an python environment with libraries listed at the top of the notebook
+- activate enviornment 
+- select ticker and comparables in the third cell
+- run all and enjoy
+
 links
 
 YT: https://www.youtube.com/channel/UCSgE2RSSMXPK1antbEeJ9lg
